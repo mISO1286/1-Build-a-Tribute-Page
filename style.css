@@ -1,0 +1,72 @@
+/*
+* {
+    box-sizing: border-box; 
+}
+
+*/
+
+#main {
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+  }
+
+  .left {
+    width: 25%;
+    background-color:beige;
+  }
+
+  .center {
+    width: 50%;
+    justify-content: center;
+    font-size: 6em;
+    background-color: beige;
+  }
+
+  .right {
+    width: 25%;
+    background-color: beige;
+  }
+
+  #img-div {
+     text-align: center;
+    width: 100%;
+   
+  }
+
+  #title {
+    text-align: center; 
+  }
+
+  
+
+  #image {
+    
+   width: 1000px;
+  }
+
+  #common-discr {
+     
+    width: 70%;
+
+    }
+
+  #time_line {
+    width: 96%;
+    margin-left: 2%;
+    margin-right: 2%;
+    }
+
+  P { 
+    text-indent: 1.5em; /* Отступ первой строки */
+    text-align: justify; /* Выравнивание по ширине */
+   }  
+
+   h2 {
+    text-align: center
+   }   
+  #tribute-link {
+  
+}
+
+ 
